@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+workspace-preview*.png
+tmp/
+开发对话记录.md
